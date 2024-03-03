@@ -1,5 +1,7 @@
 # Towns for SoftUni
 
+Roles
+
 •	Stan takes the role "Editor"
 
 •	MurtadaAhmed takes the role "Shuffler"
