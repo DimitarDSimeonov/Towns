@@ -41,6 +41,7 @@ $(document).ready(function() {
 	$('#btnShuffle').click(shuffleTowns);
 });
 
+// Shuffle Functionality
 function shuffleTowns() {
 	let towns = $('#towns option').toArray();
 	$('#towns').empty();
